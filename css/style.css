@@ -1,0 +1,68 @@
+body {
+    padding: 130px 0px 0px 0px;
+    font-family: 'Lato', sans-serif;
+    } 
+
+.logo{
+    width: 110px;
+    height: 110px;
+}
+
+.logo2{
+    width: 150px;
+    height: 150px;
+}
+
+.navbar-dark {
+    background-color: #123c69;
+}  
+
+h1 {
+    color: tomato;
+}
+
+h4, h5{
+    padding-bottom: 5px;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.navbar-dark {
+    background-color: black;
+    color: white;
+}  
+
+.jumbotron {
+    background-color: skyblue;
+}
+
+.opacity {
+    opacity: 0.7;
+}
+
+.red {
+    border: 1px solid red; 
+}
+
+.photograph{
+    width: 150px;
+    height: 50px;
+    position: relative;
+    top: -135%;
+    opacity: 0.3;
+}
+
+.testimonial {
+    background-color: rgb(22, 53, 78);
+    color: whitesmoke; 
+}
+
+.carousel-control-prev, .carousel-control-next
+{
+    top: -100px;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: whitesmoke;
+}
